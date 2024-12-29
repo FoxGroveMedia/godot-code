@@ -1,0 +1,66 @@
+[
+	{
+		"id": 1,
+		"title": "Gem",
+		"description": "A valuable gem!",
+		"drop_rate": 0.1,
+		"categories": ["gems"],
+		"resource_path": "res://Items/gem.tres"
+	},
+	{
+		"id": 2,
+		"title": "Red Apple",
+		"description": "A delicious red apple!",
+		"drop_rate": 1.0,
+		"categories": ["food"],
+		"resource_path": "res://Items/apple.tres"
+	},
+	{
+		"id": 3,
+		"title": "Green Apple",
+		"description": "A delicious red apple!",
+		"drop_rate": 1.0,
+		"categories": ["food"],
+		"resource_path": "res://Items/apple.tres"
+	},
+	{
+		"id": 4,
+		"title": "Potion of Healing",
+		"description": "This red drink restores your health!",
+		"min_level": 1,
+		"max_level": 10,
+		"drop_rate": 0.75,
+		"categories": ["potion","health"],
+		"resource_path": "res://Items/potion.tres"
+	},
+	{
+		"id": 5,
+		"title": "Potion of Greater Healing",
+		"description": "This red drink restores your health!",
+		"min_level": 11,
+		"max_level": 20,
+		"drop_rate": 0.75,
+		"categories": ["potion","health"],
+		"resource_path": "res://Items/potion.tres"
+	},
+	{
+		"id": 6,
+		"title": "Potion of Superior Healing",
+		"description": "This red drink restores your health!",
+		"min_level": 21,
+		"max_level": 30,
+		"drop_rate": 0.75,
+		"categories": ["potion","health"],
+		"resource_path": "res://Items/potion.tres"
+	},
+	{
+		"id": 7,
+		"title": "Potion of Supreme Healing",
+		"description": "This red drink restores your health!",
+		"min_level": 31,
+		"max_level": 255,
+		"drop_rate": 0.75,
+		"categories": ["potion","health"],
+		"resource_path": "res://Items/potion.tres"
+	},
+]
